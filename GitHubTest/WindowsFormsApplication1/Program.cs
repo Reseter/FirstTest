@@ -15,6 +15,7 @@ namespace WindowsFormsApplication1
         [STAThread]
         static void Main()
         {
+            // Hier sind die neuen Features (Branch new feature)
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
